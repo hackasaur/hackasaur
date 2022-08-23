@@ -4,7 +4,7 @@
 - 💬 Ask me about ... HTML5 Canvas, computer graphics, general programming 
 - 📫 How to reach me: ... email me at <manikraina1096@gmail.com>
 
-I also like to do 3D modelling in Blender you can checkout my content at this [Github Page](https://hackasaur.github.io/Manik-3D-showcase/)
+I also like to do 3D modelling in Blender you can checkout my 3D content at this [Github Page](https://hackasaur.github.io/Manik-3D-showcase/)
 
 <!--
 **hackasaur/hackasaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
