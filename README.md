@@ -6,8 +6,7 @@
 
 I also like to do 3D modelling in Blender you can checkout my 3D content at this [Github Page](https://hackasaur.github.io/Manik-3D-showcase/)
 
-![snake gif](https://github.com/hackasaur/hackasaur/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-![snake gif](https://github.com/hackasaur/hackasaur/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake gif](https://github.com/hackasaur/hackasaur/raw/output/github-snake-dark.svg)
 
 <!--
 **hackasaur/hackasaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
