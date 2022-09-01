@@ -6,7 +6,7 @@
 
 I also like to do 3D modelling in Blender you can checkout my 3D content at this [Github Page](https://hackasaur.github.io/Manik-3D-showcase/)
 
-See my contributions eaten by a snake (Thanks to https://github.com/Platane/snk! github action):
+See my contributions eaten by a snake!🎉 (Thanks to https://github.com/Platane/snk! github action):
 ![snake gif](https://github.com/hackasaur/hackasaur/raw/output/github-snake-dark.svg)
 
 <!--
