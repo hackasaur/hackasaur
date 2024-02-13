@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ... 2D/3D graphics, Machine learning, game programming, Blender
+- 🌱 I’m currently learning ... Machine learning, 2D/3D graphics
 - 👯 I’m looking to collaborate on ... anything interesting and challenging
 - 💬 Ask me about ... HTML5 Canvas, computer graphics, general programming 
 - 📫 How to reach me: ... email me at <manikraina1096@gmail.com>
